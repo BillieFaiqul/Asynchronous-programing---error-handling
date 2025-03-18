@@ -1,2 +1,5 @@
-/.env
-/node_modules
+# Mengabaikan file .env
+.env
+
+# Mengabaikan seluruh direktori node_modules
+node_modules/
